@@ -1,0 +1,17 @@
+# Quantum Finance — Dependências
+
+# Framework de Agentes (Google ADK)
+google-adk>=0.4.0
+google-generativeai>=0.8.0
+
+# Dados financeiros da B3 (yfinance — tickers com sufixo .SA)
+yfinance>=0.2.40
+
+# HTTP para APIs públicas (BCB, SerpAPI)
+requests>=2.32.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Utilitários
+pandas>=2.2.0
