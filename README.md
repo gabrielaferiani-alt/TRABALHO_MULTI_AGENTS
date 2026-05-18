@@ -21,7 +21,7 @@ do Brasil, e gera recomendações personalizadas por perfil de investidor.
                                  ▼
 ┌────────────────────────────────────────────────────────────────┐
 │              🧠 LEAD ADVISOR (Agente Estrategista)              │
-│                   Model: Gemini 2.0 Flash                      │
+│                   Model: Gemini 2.5 Flash lite                     │
 │                                                                │
 │  • Recebe o perfil do cliente                                  │
 │  • Orquestra os subagentes especializados                      │
@@ -66,7 +66,7 @@ passa pelo Lead Advisor, garantindo coerência na recomendação final.
 
 | Atributo | Valor |
 |---|---|
-| **Modelo** | `gemini-2.0-flash` |
+| **Modelo** | `gemini-2.5-flash-lite` |
 | **Papel** | Orquestrador principal |
 | **Sub-agentes** | `market_analyst`, `b3_data_agent` |
 
@@ -99,7 +99,7 @@ Identificar perfil (conservador / moderado / arrojado)
 
 | Atributo | Valor |
 |---|---|
-| **Modelo** | `gemini-2.0-flash` |
+| **Modelo** | `gemini-2.5-flash-lite` |
 | **Papel** | Especialista em produtos financeiros |
 | **Ferramentas** | 3 ferramentas |
 
@@ -118,7 +118,7 @@ Identificar perfil (conservador / moderado / arrojado)
 
 | Atributo | Valor |
 |---|---|
-| **Modelo** | `gemini-2.0-flash` |
+| **Modelo** | `gemini-2.5-flash-lite` |
 | **Papel** | Especialista em dados reais de mercado |
 | **Ferramentas** | 5 ferramentas |
 
