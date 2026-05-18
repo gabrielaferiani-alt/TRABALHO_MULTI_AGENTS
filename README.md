@@ -315,16 +315,21 @@ especializados de forma nativa, sem precisar implementar orquestração manual.
 
 | Nome | RM |
 |---|---|
-| [Integrante 1] | [RM] |
-| [Integrante 2] | [RM] |
-| [Integrante 3] | [RM] |
-| [Integrante 4] | [RM] |
+| [Integrante 1] | 365336 | GABRIELA FERIANI LEONI
+| [Integrante 2] | 365245 | RAPHAEL ALBERTO SUPPI
+| [Integrante 3] | 364789 | Lucas Caspirro Gitti Alcaraz 
 
 ---
 
-## 📋 Disclaimer
+## 📋 Disclaimer 
 
 > Este sistema é desenvolvido para fins **educacionais** no contexto do MBA FIAP.
 > As análises geradas pela IA não constituem recomendação formal de investimento.
 > Sempre consulte um assessor de investimentos certificado (CFP/CEA) antes de
 > tomar decisões financeiras. Dados de mercado podem ter defasagem de até 15 minutos.
+
+---
+
+## Link vídeo Youtube - execução agente    
+
+LINK VIDEO EXECUÇÃO AGENTE :  https://www.youtube.com/watch?v=gezE8GGNtbk
