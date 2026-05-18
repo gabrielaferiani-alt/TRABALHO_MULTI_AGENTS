@@ -315,9 +315,9 @@ especializados de forma nativa, sem precisar implementar orquestração manual.
 
 | Nome | RM |
 |---|---|
-| [Integrante 1] | 365336 | GABRIELA FERIANI LEONI
-| [Integrante 2] | 365245 | RAPHAEL ALBERTO SUPPI
-| [Integrante 3] | 364789 | Lucas Caspirro Gitti Alcaraz 
+| GABRIELA FERIANI LEONI | 365336 | 
+| RAPHAEL ALBERTO SUPPI | 365245 | 
+| Lucas Caspirro Gitti Alcaraz | 364789 | 
 
 ---
 
