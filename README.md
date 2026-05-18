@@ -15,13 +15,13 @@ do Brasil, e gera recomendações personalizadas por perfil de investidor.
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                     USUÁRIO / CLIENTE                          │
-│              (Pergunta sobre investimentos)                     │
+│              (Pergunta sobre investimentos)                    │
 └────────────────────────────────┬───────────────────────────────┘
                                  │
                                  ▼
 ┌────────────────────────────────────────────────────────────────┐
-│              🧠 LEAD ADVISOR (Agente Estrategista)              │
-│                   Model: Gemini 2.5 Flash lite                     │
+│              🧠 LEAD ADVISOR (Agente Estrategista)             │
+│                   Model: Gemini 2.5 Flash lite                 │
 │                                                                │
 │  • Recebe o perfil do cliente                                  │
 │  • Orquestra os subagentes especializados                      │
@@ -31,7 +31,7 @@ do Brasil, e gera recomendações personalizadas por perfil de investidor.
        Delega para │                         │ Delega para
                    ▼                         ▼
 ┌─────────────────────────┐   ┌──────────────────────────────────┐
-│  📰 MARKET ANALYST       │   │  📊 B3 DATA AGENT                │
+│  📰 MARKET ANALYST      │   │  📊 B3 DATA AGENT                │
 │  (Agente Pesquisador)   │   │  (Especialista de Dados B3)      │
 │                         │   │                                  │
 │  Ferramentas:           │   │  Ferramentas:                    │
@@ -42,7 +42,7 @@ do Brasil, e gera recomendações personalizadas por perfil de investidor.
 │  • get_fixed_income_    │   │  • get_market_indicators()       │
 │    reference()          │   │                                  │
 │                         │   │  Fontes de dados:                │
-│  Explica: CDB, Tesouro  │   │  • yfinance (B3 em tempo real)  │
+│  Explica: CDB, Tesouro  │   │  • yfinance (B3 em tempo real)   │
 │  Direto, FIIs, ações    │   │  • API pública do BCB            │
 └────────────┬────────────┘   └──────────────┬───────────────────┘
              │                               │
